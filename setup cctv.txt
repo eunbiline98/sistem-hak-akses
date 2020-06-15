@@ -1,0 +1,4 @@
+﻿access camera
+
+sudo motion
+./ngrok http 8081
